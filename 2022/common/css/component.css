@@ -1,4 +1,4 @@
-﻿
+
 /* button */
 .common-btn {padding:10px 32px; display:inline-flex; justify-content: center; align-items:center; border-radius:50px; background-color:rgba(51,51,51,0.9); border-width:1px; border-style: solid; border-color:#333; color:#fff; transition: all 0.2s ease-out;}
 @media (hover: hover) { .common-btn:hover {background-color:rgba(51,51,51,0.7); border-color:transparent; transition: all 0.2s ease-out; will-change: background-color, border-color;}}

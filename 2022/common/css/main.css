@@ -1,4 +1,4 @@
-﻿@charset "utf-8";
+@charset "utf-8";
 .blind {overflow:hidden; position:absolute; top:0; left:0; width:1px; height:1px; margin:1px; border:none; clip:rect (0, 0, 0, 0)}
 #container {padding-top:0}
 h2 {font-size:44px; font-weight:600; line-height:1.2; letter-spacing:-.2px}
@@ -22,7 +22,7 @@ h4 {font-size:24px; font-weight:400; line-height:1.5; letter-spacing:-.2px}
 #header.root .logo a>img {opacity:0; visibility:hidden}
 #header.root .logo a>img+img {opacity:1; visibility:visible}
 #header.root .inner .btn_menu .hamburger-ico .line {background-color:#fff}
-#header.root .inner .gnbSearch{display:inline-block; width:32px; height:32px; background: url('../../img/\'); background-size:32px auto;}
+#header.root .inner .gnbSearch{display:inline-block; width:32px; height:32px; background: url('../../img/icon/search-new-icon.png'); background-size:32px auto;}
 #header.root.hover {background-color:#fff}
 #header.root.hover .btn_language svg path + path {fill:#000}
 #header.root.hover .btn_search g > g {stroke:#000}
@@ -111,6 +111,5 @@ h4 {font-size:24px; font-weight:400; line-height:1.5; letter-spacing:-.2px}
 	#popCsk {top:150px;width:400px;}
 }
 @media all and (max-width: 1023px) { .visual-wrapper {height: auto !important;}}
-
 
 
