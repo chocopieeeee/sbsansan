@@ -1,4 +1,4 @@
-.fitTop {width:100%;}
+﻿.fitTop {width:100%;}
 .fitTop img {display:block; margin:0 auto; max-width:100%;}
 .fitWrap {background:#d1d2d3; width:100%;}
 .fitWrap * {font-family:'Noto Sans Korean', sans-serif; margin:0; padding:0; box-sizing:border-box;}
@@ -13,103 +13,103 @@
 .fitUl li input {display:none;}
 .fitUl li label {display:block; padding-top:95%; line-height:1.2em; font-size:10pt; letter-spacing:-0.075em; color:#999; font-weight:500; cursor:pointer; background-size:100% auto !important; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;}
 .fitUl.on li label {color:#12121c;}
-.fitLevel li:nth-child(1) input + label {background:url("/2022/img/event/fit_ico0101_n.png")no-repeat center top;}
-.fitLevel li:nth-child(2) input + label {background:url("/2022/img/event/fit_ico0102_n.png")no-repeat center top;}
-.fitLevel li:nth-child(3) input + label {background:url("/2022/img/event/fit_ico0103_n.png")no-repeat center top;}
-.fitLevel li:nth-child(1) input:checked + label {background:url("/2022/img/event/fit_ico0101_s.png")no-repeat center top;}
-.fitLevel li:nth-child(2) input:checked + label {background:url("/2022/img/event/fit_ico0102_s.png")no-repeat center top;}
-.fitLevel li:nth-child(3) input:checked + label {background:url("/2022/img/event/fit_ico0103_s.png")no-repeat center top;}
-.fitLevel li:nth-child(1) input:disabled + label {background:url("/2022/img/event/fit_ico0101_d.png")no-repeat center top;}
-.fitLevel li:nth-child(2) input:disabled + label {background:url("/2022/img/event/fit_ico0102_d.png")no-repeat center top;}
-.fitLevel li:nth-child(3) input:disabled + label {background:url("/2022/img/event/fit_ico0103_d.png")no-repeat center top;}
+.fitLevel li:nth-child(1) input + label {background:url("../../img/event/fit_ico0101_n.png")no-repeat center top;}
+.fitLevel li:nth-child(2) input + label {background:url("../../img/event/fit_ico0102_n.png")no-repeat center top;}
+.fitLevel li:nth-child(3) input + label {background:url("../../img/event/fit_ico0103_n.png")no-repeat center top;}
+.fitLevel li:nth-child(1) input:checked + label {background:url("../../img/event/fit_ico0101_s.png")no-repeat center top;}
+.fitLevel li:nth-child(2) input:checked + label {background:url("../../img/event/fit_ico0102_s.png")no-repeat center top;}
+.fitLevel li:nth-child(3) input:checked + label {background:url("../../img/event/fit_ico0103_s.png")no-repeat center top;}
+.fitLevel li:nth-child(1) input:disabled + label {background:url("../../img/event/fit_ico0101_d.png")no-repeat center top;}
+.fitLevel li:nth-child(2) input:disabled + label {background:url("../../img/event/fit_ico0102_d.png")no-repeat center top;}
+.fitLevel li:nth-child(3) input:disabled + label {background:url("../../img/event/fit_ico0103_d.png")no-repeat center top;}
 .fitGoal {}
-.fitGoal li:nth-child(1) input + label {background:url("/2022/img/event/fit_ico0201_n.png")no-repeat center top;}
-.fitGoal li:nth-child(2) input + label {background:url("/2022/img/event/fit_ico0202_n.png")no-repeat center top;}
-.fitGoal li:nth-child(3) input + label {background:url("/2022/img/event/fit_ico0203_n.png")no-repeat center top;}
-.fitGoal li:nth-child(4) input + label {background:url("/2022/img/event/fit_ico0204_n.png")no-repeat center top;}
-.fitGoal li:nth-child(5) input + label {background:url("/2022/img/event/fit_ico0205_n.png")no-repeat center top;}
-.fitGoal li:nth-child(1) input:checked + label {background:url("/2022/img/event/fit_ico0201_s.png")no-repeat center top;}
-.fitGoal li:nth-child(2) input:checked + label {background:url("/2022/img/event/fit_ico0202_s.png")no-repeat center top;}
-.fitGoal li:nth-child(3) input:checked + label {background:url("/2022/img/event/fit_ico0203_s.png")no-repeat center top;}
-.fitGoal li:nth-child(4) input:checked + label {background:url("/2022/img/event/fit_ico0204_s.png")no-repeat center top;}
-.fitGoal li:nth-child(5) input:checked + label {background:url("/2022/img/event/fit_ico0205_s.png")no-repeat center top;}
-.fitGoal li:nth-child(1) input:disabled + label {background:url("/2022/img/event/fit_ico0201_d.png")no-repeat center top;}
-.fitGoal li:nth-child(2) input:disabled + label {background:url("/2022/img/event/fit_ico0202_d.png")no-repeat center top;}
-.fitGoal li:nth-child(3) input:disabled + label {background:url("/2022/img/event/fit_ico0203_d.png")no-repeat center top;}
-.fitGoal li:nth-child(4) input:disabled + label {background:url("/2022/img/event/fit_ico0204_d.png")no-repeat center top;}
-.fitGoal li:nth-child(5) input:disabled + label {background:url("/2022/img/event/fit_ico0205_d.png")no-repeat center top;}
+.fitGoal li:nth-child(1) input + label {background:url("../../img/event/fit_ico0201_n.png")no-repeat center top;}
+.fitGoal li:nth-child(2) input + label {background:url("../../img/event/fit_ico0202_n.png")no-repeat center top;}
+.fitGoal li:nth-child(3) input + label {background:url("../../img/event/fit_ico0203_n.png")no-repeat center top;}
+.fitGoal li:nth-child(4) input + label {background:url("../../img/event/fit_ico0204_n.png")no-repeat center top;}
+.fitGoal li:nth-child(5) input + label {background:url("../../img/event/fit_ico0205_n.png")no-repeat center top;}
+.fitGoal li:nth-child(1) input:checked + label {background:url("../../img/event/fit_ico0201_s.png")no-repeat center top;}
+.fitGoal li:nth-child(2) input:checked + label {background:url("../../img/event/fit_ico0202_s.png")no-repeat center top;}
+.fitGoal li:nth-child(3) input:checked + label {background:url("../../img/event/fit_ico0203_s.png")no-repeat center top;}
+.fitGoal li:nth-child(4) input:checked + label {background:url("../../img/event/fit_ico0204_s.png")no-repeat center top;}
+.fitGoal li:nth-child(5) input:checked + label {background:url("../../img/event/fit_ico0205_s.png")no-repeat center top;}
+.fitGoal li:nth-child(1) input:disabled + label {background:url("../../img/event/fit_ico0201_d.png")no-repeat center top;}
+.fitGoal li:nth-child(2) input:disabled + label {background:url("../../img/event/fit_ico0202_d.png")no-repeat center top;}
+.fitGoal li:nth-child(3) input:disabled + label {background:url("../../img/event/fit_ico0203_d.png")no-repeat center top;}
+.fitGoal li:nth-child(4) input:disabled + label {background:url("../../img/event/fit_ico0204_d.png")no-repeat center top;}
+.fitGoal li:nth-child(5) input:disabled + label {background:url("../../img/event/fit_ico0205_d.png")no-repeat center top;}
 .fitCps {}
-.fitCps li:nth-child(4n-3) input + label {background:url("/2022/img/event/fit_ico0301_n.png")no-repeat center top;}
-.fitCps li:nth-child(4n-2) input + label {background:url("/2022/img/event/fit_ico0302_n.png")no-repeat center top;}
-.fitCps li:nth-child(4n-1) input + label {background:url("/2022/img/event/fit_ico0303_n.png")no-repeat center top;}
-.fitCps li:nth-child(4n) input + label {background:url("/2022/img/event/fit_ico0304_n.png")no-repeat center top;}
-.fitCps li:nth-child(4n-3) input:checked + label {background:url("/2022/img/event/fit_ico0301_s.png")no-repeat center top;}
-.fitCps li:nth-child(4n-2) input:checked + label {background:url("/2022/img/event/fit_ico0302_s.png")no-repeat center top;}
-.fitCps li:nth-child(4n-1) input:checked + label {background:url("/2022/img/event/fit_ico0303_s.png")no-repeat center top;}
-.fitCps li:nth-child(4n) input:checked + label {background:url("/2022/img/event/fit_ico0304_s.png")no-repeat center top;}
-.fitCps li:nth-child(4n-3) input:disabled + label {background:url("/2022/img/event/fit_ico0301_d.png")no-repeat center top;}
-.fitCps li:nth-child(4n-2) input:disabled + label {background:url("/2022/img/event/fit_ico0302_d.png")no-repeat center top;}
-.fitCps li:nth-child(4n-1) input:disabled + label {background:url("/2022/img/event/fit_ico0303_d.png")no-repeat center top;}
-.fitCps li:nth-child(4n) input:disabled + label {background:url("/2022/img/event/fit_ico0304_d.png")no-repeat center top;}
+.fitCps li:nth-child(4n-3) input + label {background:url("../../img/event/fit_ico0301_n.png")no-repeat center top;}
+.fitCps li:nth-child(4n-2) input + label {background:url("../../img/event/fit_ico0302_n.png")no-repeat center top;}
+.fitCps li:nth-child(4n-1) input + label {background:url("../../img/event/fit_ico0303_n.png")no-repeat center top;}
+.fitCps li:nth-child(4n) input + label {background:url("../../img/event/fit_ico0304_n.png")no-repeat center top;}
+.fitCps li:nth-child(4n-3) input:checked + label {background:url("../../img/event/fit_ico0301_s.png")no-repeat center top;}
+.fitCps li:nth-child(4n-2) input:checked + label {background:url("../../img/event/fit_ico0302_s.png")no-repeat center top;}
+.fitCps li:nth-child(4n-1) input:checked + label {background:url("../../img/event/fit_ico0303_s.png")no-repeat center top;}
+.fitCps li:nth-child(4n) input:checked + label {background:url("../../img/event/fit_ico0304_s.png")no-repeat center top;}
+.fitCps li:nth-child(4n-3) input:disabled + label {background:url("../../img/event/fit_ico0301_d.png")no-repeat center top;}
+.fitCps li:nth-child(4n-2) input:disabled + label {background:url("../../img/event/fit_ico0302_d.png")no-repeat center top;}
+.fitCps li:nth-child(4n-1) input:disabled + label {background:url("../../img/event/fit_ico0303_d.png")no-repeat center top;}
+.fitCps li:nth-child(4n) input:disabled + label {background:url("../../img/event/fit_ico0304_d.png")no-repeat center top;}
 .fitInt  {}
-.fitInt  li:nth-child(1) input + label {background:url("/2022/img/event/fit_ico0401_n.png")no-repeat center top;}
-.fitInt  li:nth-child(2) input + label {background:url("/2022/img/event/fit_ico0402_n.png")no-repeat center top;}
-.fitInt  li:nth-child(3) input + label {background:url("/2022/img/event/fit_ico0403_n.png")no-repeat center top;}
-.fitInt  li:nth-child(4) input + label {background:url("/2022/img/event/fit_ico0404_n.png")no-repeat center top;}
-.fitInt  li:nth-child(5) input + label {background:url("/2022/img/event/fit_ico0405_n.png")no-repeat center top;}
-.fitInt  li:nth-child(6) input + label {background:url("/2022/img/event/fit_ico0406_n.png")no-repeat center top;}
-.fitInt  li:nth-child(7) input + label {background:url("/2022/img/event/fit_ico0407_n.png")no-repeat center top;}
-.fitInt  li:nth-child(8) input + label {background:url("/2022/img/event/fit_ico0408_n.png")no-repeat center top;}
-.fitInt  li:nth-child(9) input + label {background:url("/2022/img/event/fit_ico0409_n.png")no-repeat center top;}
-.fitInt  li:nth-child(10) input + label {background:url("/2022/img/event/fit_ico0410_n.png")no-repeat center top;}
-.fitInt  li:nth-child(11) input + label {background:url("/2022/img/event/fit_ico0411_n.png")no-repeat center top;}
-.fitInt  li:nth-child(12) input + label {background:url("/2022/img/event/fit_ico0412_n.png")no-repeat center top;}
-.fitInt  li:nth-child(13) input + label {background:url("/2022/img/event/fit_ico0413_n.png")no-repeat center top;}
-.fitInt  li:nth-child(14) input + label {background:url("/2022/img/event/fit_ico0414_n.png")no-repeat center top;}
-.fitInt  li:nth-child(15) input + label {background:url("/2022/img/event/fit_ico0415_n.png")no-repeat center top;}
-.fitInt  li:nth-child(1) input:checked + label {background:url("/2022/img/event/fit_ico0401_s.png")no-repeat center top;}
-.fitInt  li:nth-child(2) input:checked + label {background:url("/2022/img/event/fit_ico0402_s.png")no-repeat center top;}
-.fitInt  li:nth-child(3) input:checked + label {background:url("/2022/img/event/fit_ico0403_s.png")no-repeat center top;}
-.fitInt  li:nth-child(4) input:checked + label {background:url("/2022/img/event/fit_ico0404_s.png")no-repeat center top;}
-.fitInt  li:nth-child(5) input:checked + label {background:url("/2022/img/event/fit_ico0405_s.png")no-repeat center top;}
-.fitInt  li:nth-child(6) input:checked + label {background:url("/2022/img/event/fit_ico0406_s.png")no-repeat center top;}
-.fitInt  li:nth-child(7) input:checked + label {background:url("/2022/img/event/fit_ico0407_s.png")no-repeat center top;}
-.fitInt  li:nth-child(8) input:checked + label {background:url("/2022/img/event/fit_ico0408_s.png")no-repeat center top;}
-.fitInt  li:nth-child(9) input:checked + label {background:url("/2022/img/event/fit_ico0409_s.png")no-repeat center top;}
-.fitInt  li:nth-child(10) input:checked + label {background:url("/2022/img/event/fit_ico0410_s.png")no-repeat center top;}
-.fitInt  li:nth-child(11) input:checked + label {background:url("/2022/img/event/fit_ico0411_s.png")no-repeat center top;}
-.fitInt  li:nth-child(12) input:checked + label {background:url("/2022/img/event/fit_ico0412_s.png")no-repeat center top;}
-.fitInt  li:nth-child(13) input:checked + label {background:url("/2022/img/event/fit_ico0413_s.png")no-repeat center top;}
-.fitInt  li:nth-child(14) input:checked + label {background:url("/2022/img/event/fit_ico0414_s.png")no-repeat center top;}
-.fitInt  li:nth-child(15) input:checked + label {background:url("/2022/img/event/fit_ico0415_s.png")no-repeat center top;}
-.fitInt  li:nth-child(1) input:disabled + label {background:url("/2022/img/event/fit_ico0401_d.png")no-repeat center top;}
-.fitInt  li:nth-child(2) input:disabled + label {background:url("/2022/img/event/fit_ico0402_d.png")no-repeat center top;}
-.fitInt  li:nth-child(3) input:disabled + label {background:url("/2022/img/event/fit_ico0403_d.png")no-repeat center top;}
-.fitInt  li:nth-child(4) input:disabled + label {background:url("/2022/img/event/fit_ico0404_d.png")no-repeat center top;}
-.fitInt  li:nth-child(5) input:disabled + label {background:url("/2022/img/event/fit_ico0405_d.png")no-repeat center top;}
-.fitInt  li:nth-child(6) input:disabled + label {background:url("/2022/img/event/fit_ico0406_d.png")no-repeat center top;}
-.fitInt  li:nth-child(7) input:disabled + label {background:url("/2022/img/event/fit_ico0407_d.png")no-repeat center top;}
-.fitInt  li:nth-child(8) input:disabled + label {background:url("/2022/img/event/fit_ico0408_d.png")no-repeat center top;}
-.fitInt  li:nth-child(9) input:disabled + label {background:url("/2022/img/event/fit_ico0409_d.png")no-repeat center top;}
-.fitInt  li:nth-child(10) input:disabled + label {background:url("/2022/img/event/fit_ico0410_d.png")no-repeat center top;}
-.fitInt  li:nth-child(11) input:disabled + label {background:url("/2022/img/event/fit_ico0411_d.png")no-repeat center top;}
-.fitInt  li:nth-child(12) input:disabled + label {background:url("/2022/img/event/fit_ico0412_d.png")no-repeat center top;}
-.fitInt  li:nth-child(13) input:disabled + label {background:url("/2022/img/event/fit_ico0413_d.png")no-repeat center top;}
-.fitInt  li:nth-child(14) input:disabled + label {background:url("/2022/img/event/fit_ico0414_d.png")no-repeat center top;}
-.fitInt  li:nth-child(15) input:disabled + label {background:url("/2022/img/event/fit_ico0415_d.png")no-repeat center top;}
+.fitInt  li:nth-child(1) input + label {background:url("../../img/event/fit_ico0401_n.png")no-repeat center top;}
+.fitInt  li:nth-child(2) input + label {background:url("../../img/event/fit_ico0402_n.png")no-repeat center top;}
+.fitInt  li:nth-child(3) input + label {background:url("../../img/event/fit_ico0403_n.png")no-repeat center top;}
+.fitInt  li:nth-child(4) input + label {background:url("../../img/event/fit_ico0404_n.png")no-repeat center top;}
+.fitInt  li:nth-child(5) input + label {background:url("../../img/event/fit_ico0405_n.png")no-repeat center top;}
+.fitInt  li:nth-child(6) input + label {background:url("../../img/event/fit_ico0406_n.png")no-repeat center top;}
+.fitInt  li:nth-child(7) input + label {background:url("../../img/event/fit_ico0407_n.png")no-repeat center top;}
+.fitInt  li:nth-child(8) input + label {background:url("../../img/event/fit_ico0408_n.png")no-repeat center top;}
+.fitInt  li:nth-child(9) input + label {background:url("../../img/event/fit_ico0409_n.png")no-repeat center top;}
+.fitInt  li:nth-child(10) input + label {background:url("../../img/event/fit_ico0410_n.png")no-repeat center top;}
+.fitInt  li:nth-child(11) input + label {background:url("../../img/event/fit_ico0411_n.png")no-repeat center top;}
+.fitInt  li:nth-child(12) input + label {background:url("../../img/event/fit_ico0412_n.png")no-repeat center top;}
+.fitInt  li:nth-child(13) input + label {background:url("../../img/event/fit_ico0413_n.png")no-repeat center top;}
+.fitInt  li:nth-child(14) input + label {background:url("../../img/event/fit_ico0414_n.png")no-repeat center top;}
+.fitInt  li:nth-child(15) input + label {background:url("../../img/event/fit_ico0415_n.png")no-repeat center top;}
+.fitInt  li:nth-child(1) input:checked + label {background:url("../../img/event/fit_ico0401_s.png")no-repeat center top;}
+.fitInt  li:nth-child(2) input:checked + label {background:url("../../img/event/fit_ico0402_s.png")no-repeat center top;}
+.fitInt  li:nth-child(3) input:checked + label {background:url("../../img/event/fit_ico0403_s.png")no-repeat center top;}
+.fitInt  li:nth-child(4) input:checked + label {background:url("../../img/event/fit_ico0404_s.png")no-repeat center top;}
+.fitInt  li:nth-child(5) input:checked + label {background:url("../../img/event/fit_ico0405_s.png")no-repeat center top;}
+.fitInt  li:nth-child(6) input:checked + label {background:url("../../img/event/fit_ico0406_s.png")no-repeat center top;}
+.fitInt  li:nth-child(7) input:checked + label {background:url("../../img/event/fit_ico0407_s.png")no-repeat center top;}
+.fitInt  li:nth-child(8) input:checked + label {background:url("../../img/event/fit_ico0408_s.png")no-repeat center top;}
+.fitInt  li:nth-child(9) input:checked + label {background:url("../../img/event/fit_ico0409_s.png")no-repeat center top;}
+.fitInt  li:nth-child(10) input:checked + label {background:url("../../img/event/fit_ico0410_s.png")no-repeat center top;}
+.fitInt  li:nth-child(11) input:checked + label {background:url("../../img/event/fit_ico0411_s.png")no-repeat center top;}
+.fitInt  li:nth-child(12) input:checked + label {background:url("../../img/event/fit_ico0412_s.png")no-repeat center top;}
+.fitInt  li:nth-child(13) input:checked + label {background:url("../../img/event/fit_ico0413_s.png")no-repeat center top;}
+.fitInt  li:nth-child(14) input:checked + label {background:url("../../img/event/fit_ico0414_s.png")no-repeat center top;}
+.fitInt  li:nth-child(15) input:checked + label {background:url("../../img/event/fit_ico0415_s.png")no-repeat center top;}
+.fitInt  li:nth-child(1) input:disabled + label {background:url("../../img/event/fit_ico0401_d.png")no-repeat center top;}
+.fitInt  li:nth-child(2) input:disabled + label {background:url("../../img/event/fit_ico0402_d.png")no-repeat center top;}
+.fitInt  li:nth-child(3) input:disabled + label {background:url("../../img/event/fit_ico0403_d.png")no-repeat center top;}
+.fitInt  li:nth-child(4) input:disabled + label {background:url("../../img/event/fit_ico0404_d.png")no-repeat center top;}
+.fitInt  li:nth-child(5) input:disabled + label {background:url("../../img/event/fit_ico0405_d.png")no-repeat center top;}
+.fitInt  li:nth-child(6) input:disabled + label {background:url("../../img/event/fit_ico0406_d.png")no-repeat center top;}
+.fitInt  li:nth-child(7) input:disabled + label {background:url("../../img/event/fit_ico0407_d.png")no-repeat center top;}
+.fitInt  li:nth-child(8) input:disabled + label {background:url("../../img/event/fit_ico0408_d.png")no-repeat center top;}
+.fitInt  li:nth-child(9) input:disabled + label {background:url("../../img/event/fit_ico0409_d.png")no-repeat center top;}
+.fitInt  li:nth-child(10) input:disabled + label {background:url("../../img/event/fit_ico0410_d.png")no-repeat center top;}
+.fitInt  li:nth-child(11) input:disabled + label {background:url("../../img/event/fit_ico0411_d.png")no-repeat center top;}
+.fitInt  li:nth-child(12) input:disabled + label {background:url("../../img/event/fit_ico0412_d.png")no-repeat center top;}
+.fitInt  li:nth-child(13) input:disabled + label {background:url("../../img/event/fit_ico0413_d.png")no-repeat center top;}
+.fitInt  li:nth-child(14) input:disabled + label {background:url("../../img/event/fit_ico0414_d.png")no-repeat center top;}
+.fitInt  li:nth-child(15) input:disabled + label {background:url("../../img/event/fit_ico0415_d.png")no-repeat center top;}
 .fitType {}
-.fitType li:nth-child(1) input + label {background:url("/2022/img/event/fit_ico0501_n.png")no-repeat center top;}
-.fitType li:nth-child(2) input + label {background:url("/2022/img/event/fit_ico0502_n.png")no-repeat center top;}
-.fitType li:nth-child(3) input + label {background:url("/2022/img/event/fit_ico0503_n.png")no-repeat center top;}
-.fitType li:nth-child(4) input + label {background:url("/2022/img/event/fit_ico0504_n.png")no-repeat center top;}
-.fitType li:nth-child(1) input:checked + label {background:url("/2022/img/event/fit_ico0501_s.png")no-repeat center top;}
-.fitType li:nth-child(2) input:checked + label {background:url("/2022/img/event/fit_ico0502_s.png")no-repeat center top;}
-.fitType li:nth-child(3) input:checked + label {background:url("/2022/img/event/fit_ico0503_s.png")no-repeat center top;}
-.fitType li:nth-child(4) input:checked + label {background:url("/2022/img/event/fit_ico0504_s.png")no-repeat center top;}
-.fitType li:nth-child(1) input:disabled + label {background:url("/2022/img/event/fit_ico0501_d.png")no-repeat center top;}
-.fitType li:nth-child(2) input:disabled + label {background:url("/2022/img/event/fit_ico0502_d.png")no-repeat center top;}
-.fitType li:nth-child(3) input:disabled + label {background:url("/2022/img/event/fit_ico0503_d.png")no-repeat center top;}
-.fitType li:nth-child(4) input:disabled + label {background:url("/2022/img/event/fit_ico0504_d.png")no-repeat center top;}
+.fitType li:nth-child(1) input + label {background:url("../../img/event/fit_ico0501_n.png")no-repeat center top;}
+.fitType li:nth-child(2) input + label {background:url("../../img/event/fit_ico0502_n.png")no-repeat center top;}
+.fitType li:nth-child(3) input + label {background:url("../../img/event/fit_ico0503_n.png")no-repeat center top;}
+.fitType li:nth-child(4) input + label {background:url("../../img/event/fit_ico0504_n.png")no-repeat center top;}
+.fitType li:nth-child(1) input:checked + label {background:url("../../img/event/fit_ico0501_s.png")no-repeat center top;}
+.fitType li:nth-child(2) input:checked + label {background:url("../../img/event/fit_ico0502_s.png")no-repeat center top;}
+.fitType li:nth-child(3) input:checked + label {background:url("../../img/event/fit_ico0503_s.png")no-repeat center top;}
+.fitType li:nth-child(4) input:checked + label {background:url("../../img/event/fit_ico0504_s.png")no-repeat center top;}
+.fitType li:nth-child(1) input:disabled + label {background:url("../../img/event/fit_ico0501_d.png")no-repeat center top;}
+.fitType li:nth-child(2) input:disabled + label {background:url("../../img/event/fit_ico0502_d.png")no-repeat center top;}
+.fitType li:nth-child(3) input:disabled + label {background:url("../../img/event/fit_ico0503_d.png")no-repeat center top;}
+.fitType li:nth-child(4) input:disabled + label {background:url("../../img/event/fit_ico0504_d.png")no-repeat center top;}
 .fitInfo {text-align:center; padding:20px 15px;}
 .fitInfo li,
 .fitInfo li span {display:inline-block; width:32%; padding-top:95%; line-height:1.0em; font-size:16px; letter-spacing:-0.075em; color:#12121c; font-weight:500; background-size:100% auto !important;}
@@ -119,42 +119,42 @@
 .fitInfo li#fitTxt03 {}
 .fitInfo li#fitTxt04 {width:100%; display:block; padding-top:0; margin:0;}
 .fitInfo li#fitTxt04 span {}
-.fitInfo li#fitTxt00.location01 {background:url("/2022/img/event/fit_ico0301_s.png")no-repeat center top;}
-.fitInfo li#fitTxt00.location02 {background:url("/2022/img/event/fit_ico0302_s.png")no-repeat center top;}
-.fitInfo li#fitTxt00.location03 {background:url("/2022/img/event/fit_ico0303_s.png")no-repeat center top;}
-.fitInfo li#fitTxt00.location04 {background:url("/2022/img/event/fit_ico0304_s.png")no-repeat center top;}
-.fitInfo li#fitTxt00.location05 {background:url("/2022/img/event/fit_ico0301_s.png")no-repeat center top;}
-.fitInfo li#fitTxt00.location06 {background:url("/2022/img/event/fit_ico0302_s.png")no-repeat center top;}
-.fitInfo li#fitTxt00.location07 {background:url("/2022/img/event/fit_ico0303_s.png")no-repeat center top;}
-.fitInfo li#fitTxt00.location08 {background:url("/2022/img/event/fit_ico0304_s.png")no-repeat center top;}
-.fitInfo li#fitTxt00.location09 {background:url("/2022/img/event/fit_ico0301_s.png")no-repeat center top;}
-.fitInfo li#fitTxt00.location10 {background:url("/2022/img/event/fit_ico0302_s.png")no-repeat center top;}
-.fitInfo li#fitTxt00.location11 {background:url("/2022/img/event/fit_ico0303_s.png")no-repeat center top;}
-.fitInfo li#fitTxt00.location12 {background:url("/2022/img/event/fit_ico0304_s.png")no-repeat center top;}
-.fitInfo li#fitTxt01.fit0101 {background:url("/2022/img/event/fit_ico0201_s.png")no-repeat center top;}
-.fitInfo li#fitTxt01.fit0102 {background:url("/2022/img/event/fit_ico0202_s.png")no-repeat center top;}
-.fitInfo li#fitTxt01.fit0103 {background:url("/2022/img/event/fit_ico0203_s.png")no-repeat center top;}
-.fitInfo li#fitTxt01.fit0104 {background:url("/2022/img/event/fit_ico0204_s.png")no-repeat center top;}
-.fitInfo li#fitTxt01.fit0105 {background:url("/2022/img/event/fit_ico0205_s.png")no-repeat center top;}
-.fitInfo li#fitTxt02.fit0201 {background:url("/2022/img/event/fit_ico0501_s.png")no-repeat center top;}
-.fitInfo li#fitTxt02.fit0202 {background:url("/2022/img/event/fit_ico0502_s.png")no-repeat center top;}
-.fitInfo li#fitTxt02.fit0203 {background:url("/2022/img/event/fit_ico0503_s.png")no-repeat center top;}
-.fitInfo li#fitTxt02.fit0204 {background:url("/2022/img/event/fit_ico0504_s.png")no-repeat center top;}
-.fitInfo li#fitTxt03.fit0301 {background:url("/2022/img/event/fit_ico0101_s.png")no-repeat center top;}
-.fitInfo li#fitTxt03.fit0302 {background:url("/2022/img/event/fit_ico0102_s.png")no-repeat center top;}
-.fitInfo li#fitTxt03.fit0303 {background:url("/2022/img/event/fit_ico0103_s.png")no-repeat center top;}
-.fitInfo li#fitTxt04 span#int01 {background:url("/2022/img/event/fit_ico0401_s.png")no-repeat center top;}
-.fitInfo li#fitTxt04 span#int02 {background:url("/2022/img/event/fit_ico0402_s.png")no-repeat center top;}
-.fitInfo li#fitTxt04 span#int03 {background:url("/2022/img/event/fit_ico0403_s.png")no-repeat center top;}
-.fitInfo li#fitTxt04 span#int04 {background:url("/2022/img/event/fit_ico0404_s.png")no-repeat center top;}
-.fitInfo li#fitTxt04 span#int05 {background:url("/2022/img/event/fit_ico0405_s.png")no-repeat center top;}
-.fitInfo li#fitTxt04 span#int06 {background:url("/2022/img/event/fit_ico0406_s.png")no-repeat center top;}
-.fitInfo li#fitTxt04 span#int07 {background:url("/2022/img/event/fit_ico0407_s.png")no-repeat center top;}
-.fitInfo li#fitTxt04 span#int08 {background:url("/2022/img/event/fit_ico0408_s.png")no-repeat center top;}
-.fitInfo li#fitTxt04 span#int09 {background:url("/2022/img/event/fit_ico0409_s.png")no-repeat center top;}
-.fitInfo li#fitTxt04 span#int10 {background:url("/2022/img/event/fit_ico0410_s.png")no-repeat center top;}
-.fitInfo li#fitTxt04 span#int11 {background:url("/2022/img/event/fit_ico0411_s.png")no-repeat center top;}
-.fitInfo li#fitTxt04 span#int12 {background:url("/2022/img/event/fit_ico0412_s.png")no-repeat center top;}
+.fitInfo li#fitTxt00.location01 {background:url("../../img/event/fit_ico0301_s.png")no-repeat center top;}
+.fitInfo li#fitTxt00.location02 {background:url("../../img/event/fit_ico0302_s.png")no-repeat center top;}
+.fitInfo li#fitTxt00.location03 {background:url("../../img/event/fit_ico0303_s.png")no-repeat center top;}
+.fitInfo li#fitTxt00.location04 {background:url("../../img/event/fit_ico0304_s.png")no-repeat center top;}
+.fitInfo li#fitTxt00.location05 {background:url("../../img/event/fit_ico0301_s.png")no-repeat center top;}
+.fitInfo li#fitTxt00.location06 {background:url("../../img/event/fit_ico0302_s.png")no-repeat center top;}
+.fitInfo li#fitTxt00.location07 {background:url("../../img/event/fit_ico0303_s.png")no-repeat center top;}
+.fitInfo li#fitTxt00.location08 {background:url("../../img/event/fit_ico0304_s.png")no-repeat center top;}
+.fitInfo li#fitTxt00.location09 {background:url("../../img/event/fit_ico0301_s.png")no-repeat center top;}
+.fitInfo li#fitTxt00.location10 {background:url("../../img/event/fit_ico0302_s.png")no-repeat center top;}
+.fitInfo li#fitTxt00.location11 {background:url("../../img/event/fit_ico0303_s.png")no-repeat center top;}
+.fitInfo li#fitTxt00.location12 {background:url("../../img/event/fit_ico0304_s.png")no-repeat center top;}
+.fitInfo li#fitTxt01.fit0101 {background:url("../../img/event/fit_ico0201_s.png")no-repeat center top;}
+.fitInfo li#fitTxt01.fit0102 {background:url("../../img/event/fit_ico0202_s.png")no-repeat center top;}
+.fitInfo li#fitTxt01.fit0103 {background:url("../../img/event/fit_ico0203_s.png")no-repeat center top;}
+.fitInfo li#fitTxt01.fit0104 {background:url("../../img/event/fit_ico0204_s.png")no-repeat center top;}
+.fitInfo li#fitTxt01.fit0105 {background:url("../../img/event/fit_ico0205_s.png")no-repeat center top;}
+.fitInfo li#fitTxt02.fit0201 {background:url("../../img/event/fit_ico0501_s.png")no-repeat center top;}
+.fitInfo li#fitTxt02.fit0202 {background:url("../../img/event/fit_ico0502_s.png")no-repeat center top;}
+.fitInfo li#fitTxt02.fit0203 {background:url("../../img/event/fit_ico0503_s.png")no-repeat center top;}
+.fitInfo li#fitTxt02.fit0204 {background:url("../../img/event/fit_ico0504_s.png")no-repeat center top;}
+.fitInfo li#fitTxt03.fit0301 {background:url("../../img/event/fit_ico0101_s.png")no-repeat center top;}
+.fitInfo li#fitTxt03.fit0302 {background:url("../../img/event/fit_ico0102_s.png")no-repeat center top;}
+.fitInfo li#fitTxt03.fit0303 {background:url("../../img/event/fit_ico0103_s.png")no-repeat center top;}
+.fitInfo li#fitTxt04 span#int01 {background:url("../../img/event/fit_ico0401_s.png")no-repeat center top;}
+.fitInfo li#fitTxt04 span#int02 {background:url("../../img/event/fit_ico0402_s.png")no-repeat center top;}
+.fitInfo li#fitTxt04 span#int03 {background:url("../../img/event/fit_ico0403_s.png")no-repeat center top;}
+.fitInfo li#fitTxt04 span#int04 {background:url("../../img/event/fit_ico0404_s.png")no-repeat center top;}
+.fitInfo li#fitTxt04 span#int05 {background:url("../../img/event/fit_ico0405_s.png")no-repeat center top;}
+.fitInfo li#fitTxt04 span#int06 {background:url("../../img/event/fit_ico0406_s.png")no-repeat center top;}
+.fitInfo li#fitTxt04 span#int07 {background:url("../../img/event/fit_ico0407_s.png")no-repeat center top;}
+.fitInfo li#fitTxt04 span#int08 {background:url("../../img/event/fit_ico0408_s.png")no-repeat center top;}
+.fitInfo li#fitTxt04 span#int09 {background:url("../../img/event/fit_ico0409_s.png")no-repeat center top;}
+.fitInfo li#fitTxt04 span#int10 {background:url("../../img/event/fit_ico0410_s.png")no-repeat center top;}
+.fitInfo li#fitTxt04 span#int11 {background:url("../../img/event/fit_ico0411_s.png")no-repeat center top;}
+.fitInfo li#fitTxt04 span#int12 {background:url("../../img/event/fit_ico0412_s.png")no-repeat center top;}
 .fitTwrap {padding: 30px 15px 0;}
 .fitTable { width:100%; padding:0 13px;}
 .fitTable th,
@@ -177,7 +177,8 @@
 .fitAgree input[type="checkbox"]:focus {outline:none;}
 .fitAgree input[type="checkbox"]:checked:after {content:""; display:block; width:auto; height:auto; background:#12121c; position:absolute; top:5px; left:5px; right:5px; bottom:5px; border-radius: 0px 0px 0px 0px; -moz-border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px;} 
 .fitAgree label {display:block; float:left; color:#12121c; font-size:13px; letter-spacing:-0.05em; height:20px; line-height:20px; margin-left:5px;}
-.fitAgree a {display:block; float:right; padding-right:10px; color:#12121c; font-size:13px; letter-spacing:-0.075em; background:url("/2022/img/event/fit_agree_ico.png")no-repeat right center;}
+.fitAgree a {display:block; float:right; padding-right:10px; color:#12121c; font-size:13px; letter-spacing:-0.075em; background:url("../../img/event/fit_agree_ico.png")no-repeat right center;}
 .fitSubmit {text-align:center; padding-top:60px; padding-bottom:80px;}
 .fitSubmit a {display:inline-block; width:240px; height:54px; line-height:54px; background:#12121c; color:#fff; font-size:14pt; letter-spacing:-0.075em; font-weight:600; border-radius: 4px 4px 4px 4px; -moz-border-radius: 4px 4px 4px 4px; -webkit-border-radius: 4px 4px 4px 4px;}
 .fitBtn{padding-top:20px; padding-bottom:10px;}
+

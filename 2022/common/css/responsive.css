@@ -1,4 +1,4 @@
-@media(max-width:1800px) {.emp .card_02{left:42%;} .emp .card_02{left:60%;}}
+﻿@media(max-width:1800px) {.emp .card_02{left:42%;} .emp .card_02{left:60%;}}
 @media(max-width:1700px) {
 	.emp .edu_process .container01 {width:1000px;}
 	.emp_bg .char_01 {width:350px;bottom:-150px;}
@@ -309,7 +309,7 @@
 @media(max-width:768px) {
 	 .loc-col_naver{justify-content:flex-start;flex-wrap:wrap;flex-direction:column;}
 	 .loc-btn_naver {text-align:left;}
-	 .emp .main {height:550px;background-image: url('/2022/img/main/emp05_main-bg_m.png');padding-top:85px;}
+	 .emp .main {height:550px;background-image: url('../../img/\');padding-top:85px;}
 	.emp .card_01{width:450px;} .emp .card_02{width:370px;}
 	.emp .container01 {width:100%;max-width:unset;padding: 0 10px;}
 	.emp .main .title {width:300px;padding-top:0;}
@@ -435,3 +435,4 @@
 	.mouView {padding-top:0;}
 	.mouvTxt p {max-width:unset; font-size:16px;}
 }
+

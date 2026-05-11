@@ -1,4 +1,4 @@
-/*
+﻿/*
  * simplyScroll 2 - a scroll-tastic jQuery plugin
  *
  * http://logicbox.net/jquery/simplyscroll
@@ -208,4 +208,5 @@ Note all DIVs are generated and should not be hard-coded
 	.vert .simply-scroll-btn-down:hover {}
 	
 	/* NOTE left-right classes wouldn't be needed on vertical scroller */
+
 
