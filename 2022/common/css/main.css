@@ -1,0 +1,115 @@
+@charset "utf-8";
+.blind {overflow:hidden; position:absolute; top:0; left:0; width:1px; height:1px; margin:1px; border:none; clip:rect (0, 0, 0, 0)}
+#container {padding-top:0}
+h2 {font-size:44px; font-weight:600; line-height:1.2; letter-spacing:-.2px}
+h3 {font-size:40px; font-weight:400; line-height:1.4; letter-spacing:-.2px}
+h4 {font-size:24px; font-weight:400; line-height:1.5; letter-spacing:-.2px}
+.description {font-size:20px; line-height:1.5; letter-spacing:-.2px; opacity:.9}
+.description[data-aos^=fade][data-aos^=fade].aos-animate {opacity:.9}
+.section {overflow:hidden}
+/* header */
+#header {transition:.4s ease}
+#header .util_lang .btn_language svg,
+#header .btn_search svg {vertical-align:middle}
+#header.root {background-color:transparent; border-color:transparent}
+.opensitemap #header.root,.opensitemap #header.root.hover {background-color:#000; border-color:rgba(238,238,238,0.2)}
+.opensitemap #header.root .inner .btn_menu .hamburger-ico .line,.opensitemap #header.root.hover .inner .btn_menu .hamburger-ico .line{    background-color: #fff;}
+#header.root .btn_language svg path + path {fill:#fff}
+#header.root .btn_search g > g {stroke:#fff}
+#header.root .inner .gnb-wrap >ul > li > a,
+#header.root .inner .header_util a {color:#fff}
+#header.root .inner .header_util .language_list a {color:#000}
+#header.root .logo a>img {opacity:0; visibility:hidden}
+#header.root .logo a>img+img {opacity:1; visibility:visible}
+#header.root .inner .btn_menu .hamburger-ico .line {background-color:#fff}
+#header.root .inner .gnbSearch{display:inline-block; width:32px; height:32px; background: url('/2022/img/icon/search-new-icon.png'); background-size:32px auto;}
+#header.root.hover {background-color:#fff}
+#header.root.hover .btn_language svg path + path {fill:#000}
+#header.root.hover .btn_search g > g {stroke:#000}
+#header.root.hover .inner .gnb-wrap >ul > li > a,
+#header.root.hover .inner .header_util a {color:#000}
+#header.root.hover .logo a>img {opacity:1; visibility:visible}
+#header.root.hover .logo a>img+img {opacity:0; visibility:hidden}
+#header.root.hover .inner .btn_menu .hamburger-ico .line,
+#header.root.hover .inner .go_sitemap .hamburger-ico .line{background-color:#000}
+.visual-wrapper {overflow:hidden; position:relative; height:48.8vw; background-color:#fff;}
+.port-maya-cont {margin-top:48px;height:80vh;}
+.port-maya-cont video{margin:-5vh 0;}
+.visual-wrapper .visual-slider {width:100%; height:100%}
+.visual-wrapper .visual_txt_area {min-height:345px}
+.visual-wrapper .visual_txt_area > a,
+.visual-wrapper .visual_txt_area > .main-banner {display:inline-flex; flex-direction:column; flex-grow:1}
+.mVideo-tablet {top:-100px !important;}
+.visual-wrapper .swiper-slide .inner {display:flex; flex-direction:column; justify-content:center; position:relative; max-width:1920px; height:100%; margin:0 auto; padding:0 8%; transition:.4s ease}
+.visual-wrapper .visual-slider .tit-slide {display:flex; flex-grow:1; color:#fff; font-weight:500; word-break: break-word; font-size:min(6vw,60px);font-weight:800}
+.visual-wrapper .visual-slider .description {display:block; flex-grow:1; margin-top:15px; color:#fff; line-height:1.55; font-size:min(3vw, 27px);}
+.visual-wrapper .visual-slider .btn-area {cursor:pointer;margin-top:40px}
+.visual-wrapper .visual-slider .btn-area a + a {margin-left:13px}
+.visual-wrapper .swiper-slide {overflow:hidden; -webkit-backface-visibility: hidden;-webkit-transform: translate3d(0, 0, 0);}
+.visual-wrapper .swiper-slide .view {position: absolute;top: 50%;left: 50%;width: 100%;height: 100%;background: no-repeat 0 50%;background-size: cover;transform: translate(-50%, -50%);background-position: 50% 50%;}
+.visual-wrapper .swiper-slide video, .swiper-slide_wr video {cursor:pointer;position: absolute;min-height: 100%;width: 100%;top: 50% !important;left: 50%;transform: translate(-50%, -50%);}
+.visual-wrapper .swiper-slide .mo-show img {width: 100%;}
+.visual-slider a, .swiper-slide_wr  {display:block; width:100%; height:100%;display: flex;flex-direction: column;justify-content: center;}
+.visual-wrapper .swiper-info-area {position:absolute; bottom:0; left:0; width:100%; max-width:1920px; padding:0 140px}
+.visual-wrapper .swiper-info-area .inner {position:relative}
+.visual-wrapper .slider-timer {display:none; position:absolute; bottom:90px; left:0; z-index:10; width:64px; height:64px; transition:left 0.5s}
+.visual-wrapper .slider-timer .btn-control {position:absolute; left:0; top:0; z-index:1; width:64px; height:64px; border:0; text-indent:-9999px; transition:.4s ease}
+.visual-wrapper .slider-timer .btn-control::after {content:""; position:absolute; top:50%; left:50%; width:0; height:16px; border-color:transparent transparent transparent #fff; border-style:double; border-width:0 0 0 14px; transform:translate(-50%, -50%); transition:.17s linear}
+.visual-wrapper .slider-timer .btn-control.is-pause::after {height:0; margin-left:2px; border-style:solid; border-width:9px 0 9px 14px}
+.visual-wrapper .swiper-info-area .fraction {position:absolute; bottom:106px; left:260px; z-index:10; transition:.4s ease}
+.visual-wrapper .swiper-info-area .fraction span {color:#fff; font-size:18px; font-weight:300; line-height:1.56; letter-spacing:-.2px; opacity:.8}
+.visual-wrapper .swiper-info-area .fraction .current-num {font-weight:400; opacity:1}
+.visual-wrapper .swiper-info-area .fraction .div {margin:0 7px; font-size:15px; opacity:.5}
+.visual-wrapper svg.progress {width:64px; height:64px; overflow:visible; transform:rotate(-90deg); transition:.4s ease}
+.visual-wrapper svg.progress circle.top {fill:transparent; stroke:#fff; stroke-width:3; stroke-dasharray:201px; stroke-dashoffset:201px; stroke-linecap:round}
+.visual-wrapper svg.progress circle.bottom {fill:transparent; stroke:rgba(255,255,255,0.5); stroke-width:3; stroke-dasharray:201px}
+.visual-wrapper .scroll-guide-area {position:relative; bottom:0; left:0; width:100%; text-align:center}
+.visual-wrapper .scroll-guide {display:inline-block; position:relative; top:-112px; z-index:5; width:56px; height:56px; background:url(/images/common/icon-56-px-scroll-down@2x.png) no-repeat 0 0; background-size:100% 100%; opacity:.9;animation:scrollDown 1.2s ease infinite alternate;transition:.4s ease}
+
+.visual-slider .swiper-slide a {overflow:hidden;position:relative;z-index:1;}
+.visual-slider .swiper-slide a canvas {position:absolute;z-index:2;}
+
+#popCsk {position:absolute; top:200px; right:150px; z-index:101; width:400px;overflow:hidden;-moz-border-radius: 5px 5px 5px 5px; -webkit-border-radius: 5px 5px 5px 5px;-webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.3); -moz-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.3); box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.3);border-radius: 5px 5px 5px 5px; }
+#popCsk img {display:block; width:100%;cursor:pointer;}
+#popCsk ul {border-top:solid 1px #dedede;}
+#popCsk ul:after {content:""; display:table; clear:both;}
+#popCsk ul li {float:left; width:50%;}
+#popCsk ul li:first-child {border-right:solid 1px #dedede;}
+#popCsk ul li a {display:block; text-align:center; height:54px; line-height:54px; color:#222; font-size:10pt; font-weight:400; background:#fff;}
+
+@keyframes timer {0% {stroke-dashoffset:201px}100% {stroke-dashoffset:0}}
+@keyframes scrollDown { from {transform:translateY(0)} to {transform:translateY(12px)}}
+@media (max-aspect-ratio:16 / 9){.visual-wrapper .swiper-slide .view{background-position:20% 100%}.visual-wrapper .swiper-slide.ms .view{background-position:50%}.visual-wrapper{height:80vh!important}}
+.curri-wr .info-box *{color:#fff;}
+.main-sub-tuition .main-hidden {display:none;}
+/* @media all and (max-width: 1280px) { */
+@media(max-width:1200px) {	#popCsk {display:none;} }
+@media all and (max-width: 1400px) {
+	.mVideo-tablet {background-color: #000; top:0px !important; width: 100%;}
+	.visual-wrapper .visual_txt_area {min-height: auto;}
+	.visual-wrapper .visual-slider .description {max-width: 600px;}
+	.visual-wrapper .visual-slider .description br {display: none;}
+	.visual-wrapper .swiper-info-area {position:absolute; bottom:0; left:0; width:100%; max-width:1920px; padding:0 140px}
+	.visual-wrapper .swiper-info-area .inner {position:relative}
+	.visual-wrapper .slider-timer {display:none; position:absolute; bottom:40px; left:0; z-index:10; width:40px; height:40px; transition:left 0.5s}
+	.visual-wrapper .slider-timer .btn-control {position:absolute; left:0; top:0; z-index:1; width:40px; height:40px; border:0; text-indent:-9999px; transition:.4s ease}
+	.visual-wrapper .slider-timer .btn-control::after {content:""; position:absolute; top:50%; left:50%; width:0; height:16px; border-color:transparent transparent transparent #fff; border-style:double; border-width:0 0 0 14px; transform:translate(-50%, -50%); transition:.17s linear}
+	.visual-wrapper .slider-timer .btn-control.is-pause::after {height:0; margin-left:2px; border-style:solid; border-width:9px 0 9px 14px}
+	.visual-wrapper .swiper-info-area .fraction {position:absolute; bottom:46px; left:180px; z-index:10; transition:.4s ease}
+	.visual-wrapper .swiper-info-area .fraction span {color:#fff; font-size:18px; font-weight:300; line-height:1.56; letter-spacing:-.2px; opacity:.8}
+	.visual-wrapper .swiper-info-area .fraction .current-num {font-weight:400; opacity:1}
+	.visual-wrapper .swiper-info-area .fraction .div {margin:0 7px; font-size:15px; opacity:.5}
+	.visual-wrapper svg.progress {width:40px; height:40px; overflow:visible; transform:rotate(-90deg); transition:.4s ease}
+	.visual-wrapper svg.progress circle.top {fill:transparent; stroke:#fff; stroke-width:3; stroke-dasharray:201px; stroke-dashoffset:201px; stroke-linecap:round}
+	.visual-wrapper svg.progress circle.bottom {fill:transparent; stroke:rgba(255,255,255,0.5); stroke-width:3; stroke-dasharray:201px}
+	.visual-wrapper .swiper-slide.ms .view {background-position: 50% 80%;}
+	.visual-wrapper .swiper-slide .view {background-position: 20% 80%;}
+	.visual-wrapper .swiper-slide video, .swiper-slide_wr video {width: 110%;}
+	.visual-wrapper {height: 650px !important;}
+	.main-roll-next{position:absolute;left:110px;top:-58px;bottom:40px;z-index:10;width:40px;height:40px;transition:left .5s;border:3px solid #fff;border-radius:100%;background:url("/2022/img/icon/icon-main-roll-next.png") center center no-repeat}
+	.main-roll-prev{position:absolute;left:60px;top:-58px;bottom:40px;z-index:10;width:40px;height:40px;transition:left .5s;border:3px solid #fff;border-radius:100%;background:url("/2022/img/icon/icon-main-roll-prev.png") center center no-repeat}
+	#popCsk {top:150px;width:400px;}
+}
+@media all and (max-width: 1023px) { .visual-wrapper {height: auto !important;}}
+
+
